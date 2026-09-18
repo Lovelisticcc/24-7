@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TOIS_Ostrava.aternos.me",
+    "port": 53105,
     "version": "",
     "try-creative": false
   },
